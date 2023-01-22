@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.mainPage {
+  background: #61dafb;
+}
+h1 {
+  color:blue;
+  background: #282c34;
+  text-align: center;
+  padding: 50px 50px 50px 100px;
+}
+
+.search {
+  background:rgb(215, 243, 250);
+  display: flex;
+  justify-content: space-around;
+
+}
